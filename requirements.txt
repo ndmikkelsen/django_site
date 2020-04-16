@@ -1,0 +1,2 @@
+Django>=3.0
+awsebcli>=3.17.1
